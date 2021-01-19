@@ -6,7 +6,7 @@
 
 |   姓名   | 职务    |
 | ---- | ---- |
-|   老师占位符     |   指导老师  |
+|   cbd2015     |   指导老师(酷！)  |
 |  Cursky    |   组长  |
 |   SpectrePrediction     |   组员  |
 |   CVUsers     |   组员  |
