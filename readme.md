@@ -1,12 +1,30 @@
-本项目第一个程序：由章云天激情打造
-目的在于搜集一批视频数据集
-（暂时未使用小夏的是因为还在探索，还不确定使用是否标注出手部位置）
-使用方法：
-1.运行collect_class.py
-2.输入要创造的标签名字
-3.输入间隔时间
-4.输入创造多少个视频
-5.听到滴声后开始做动作
-....
-直到听到3次滴滴声
-视频录制完成。
+# Deep learning based conference gesture control system
+ Deep learning based conference gesture control system, at the same time he is our competition project</br>
+ 基于深度学习的会议手势控制系统，同时他也是我们的比赛项目</br>
+ 
+ ## 🌹打个招呼
+
+|   姓名   | 职务    |
+| ---- | ---- |
+|   cbd2015     |   指导老师(酷！)  |
+|  Cursky    |   组长  |
+|   SpectrePrediction     |   组员  |
+|   CVUsers     |   组员  |
+|   gongdeyu     |   组员  |
+|  更多...    |   还在来的路上   |
+
+***
+
+## 🔨施工进度
+- [x] 团队就该主题进行了热烈的交流 ~~(是的，很激烈)~~
+- [ ] 团队就该主题进行调研和信息收集
+- [ ] 团队就该主题进行数据集收集
+
+## 📖未来规划
+- 准备好了吗？ 一帆风顺
+
+
+## ⛳此项目架构
+Deep-learning-based-conference-gesture-control-system</br>
+ ├─Control_system</br>
+ └─README.md</br>
