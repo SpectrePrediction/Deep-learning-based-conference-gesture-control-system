@@ -27,4 +27,5 @@
 ## ⛳此项目架构
 Deep-learning-based-conference-gesture-control-system</br>
  ├─Control_system</br>
+ ├─相关论文</br>
  └─README.md</br>
